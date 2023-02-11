@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/colfurshop/static/css/main.fd44879d.css",
-    "main.js": "/colfurshop/static/js/main.b0428b4b.js",
+    "main.js": "/colfurshop/static/js/main.a4d5540b.js",
     "static/js/787.182afea3.chunk.js": "/colfurshop/static/js/787.182afea3.chunk.js",
     "index.html": "/colfurshop/index.html",
     "main.fd44879d.css.map": "/colfurshop/static/css/main.fd44879d.css.map",
-    "main.b0428b4b.js.map": "/colfurshop/static/js/main.b0428b4b.js.map",
+    "main.a4d5540b.js.map": "/colfurshop/static/js/main.a4d5540b.js.map",
     "787.182afea3.chunk.js.map": "/colfurshop/static/js/787.182afea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd44879d.css",
-    "static/js/main.b0428b4b.js"
+    "static/js/main.a4d5540b.js"
   ]
 }
